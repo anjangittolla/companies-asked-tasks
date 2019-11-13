@@ -1,3 +1,5 @@
+#This was asked by ECI Telecom 
+#Write a program to find the missing letter in a given Sequence.
 def missing(seq):
     length=len(seq)
     total=(length+1)*(length+2)/2
