@@ -1,3 +1,5 @@
+#This was asked by ECI Telecom
+#Program to print Permutations and Combinations
 from itertools import permutations
 a="abcd"
 b=permutations(a)
